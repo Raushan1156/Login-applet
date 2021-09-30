@@ -1,0 +1,6 @@
+This applet ia an Login interface. This one have two Label and two TextField with having one login Button.
+For your information : Label,TextField and Button are the components mentioned in above line. For this applet,the following concept has been used:
+       a) Layout 
+       b) Button
+       c)TextField
+       d)Label
